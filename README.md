@@ -105,18 +105,13 @@ Copy code
 
 * * * * *
 
-📸 Screenshots
---------------
+## How to View the App
 
-### Home Screen
+To view this app, download the **Expo Go** app from the App Store or Google Play, and scan the QR code or use the link below to load the app directly on your device.
 
-### Property Details
+![Screenshot](https://raw.github.com/sahyl/ReState/main/assets/images/Screenshot%20(6).PNG)
 
-### Login Screen
 
-*(Replace the above placeholders with your actual screenshots.)*
-
-* * * * *
 
 🛠️ Development Scripts
 -----------------------
